@@ -26,5 +26,5 @@ This is a Streamlit-based AI-powered Applicant Tracking System (ATS) that uses G
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/ats-app.git
+   git clone https://github.com/gaurav-singh2004/ATS-Application_Tracking_System-app.git
    cd ats-app
